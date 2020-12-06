@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../FunctionalPHP">
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/openlss/lib-array2xml" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/netresearch/jsonmapper" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/felixfbecker/language-server-protocol" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/felixfbecker/advanced-json-rpc" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/amphp/byte-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/amphp/amp" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/webmozart/path-util" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/vimeo/psalm" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../FunctionalPHP/vendor/sebastian/diff" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
